@@ -19,6 +19,11 @@ npm run build
 ```
 npm run lint
 ```
+### firebase with cloud firestore get started link
+https://firebase.google.com/docs/firestore/quickstart
+
+### firebase configuration setup link
+https://firebase.google.com/docs/web/setup
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
